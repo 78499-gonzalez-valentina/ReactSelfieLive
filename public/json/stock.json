@@ -1,0 +1,10 @@
+[
+    { "id": 1, "idCategory":"EnEvento", "name": "SELFIETAG", "price": 2000, "img": "../assets/img/serv1.png", "stock":8, "description": "Servicio de fotografia instantanea en el que los invitados capturan sus fotos con los celulares las suben a las redes y se las llevan de regalo con el mejor diseño customisado." },
+    { "id": 2, "idCategory":"EnEvento", "name": "CABINA DE FOTOS", "price": 5000, "img": "../assets/img/cabinafinal.jpg", "stock":5, "description": "Un entretenimiento para tu evento, la cabina de fotos, para que los invitados ingresen a ella se coloquen el accesorio que mas le guste y se saquen las fotos, llevandose un recuerdo inolvidable de la fiesta."  },
+    { "id": 3, "idCategory":"EntregaAnticipada", "name": "SOUVENIR", "price": 300, "img": "../assets/img/souvenir.png", "stock":50, "description": "Souvenirs con encargo previo, el cliente elije lo que desea colocar en el souvenir y se entregan las cantidades deseadas antes del evento." },
+    { "id": 4, "idCategory":"EnEvento", "name": "ALBUM DE FOTOS", "price": 3500, "img": "../assets/img/serv5.jpg", "stock":35, "description": "Excelente servicio para que los autores de la fiesta se queden con el mejor recuerdo de todos, se sacan fotos en el evento y luego se imprimen y se las colocan en el album para entregarlo."},
+    { "id": 5, "idCategory":"EntregaAnticipada", "name": "TARJETAS", "price": 250, "img": "../assets/img/serv4.png", "stock":30, "description": "Tarjetas con la descripcion que decida el cliente para entregar como un lindo recuerdo del evento." },    
+    { "id": 6, "idCategory":"EntregaAnticipada", "name": "CUADROS", "price": 3000, "img": "../assets/img/serv3.jpg", "stock":20, "description": "Se eligen una foto, muchas o algun diseño que se quiera y se hacen cuadritos para luego entregar en la fiesta."},
+    { "id": 7, "idCategory":"EnEvento", "name": "IMANES", "price": 600, "img": "../assets/img/imanes.jpg", "stock":55, "description": "En el evento un encargado de nuestra empresa saca fotos y luego las imprime para hacerlas imanes y que se lleven su foto lista para pegar en algun lado."}
+
+]
